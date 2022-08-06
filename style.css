@@ -147,7 +147,7 @@ form .box-icon {
 
 .item:hover {
     z-index: 1;
-    transform: scale(1.03);
+    transform: scale(1.01);
 }
 
 .item img {
@@ -184,7 +184,7 @@ form .box-icon {
 }
 
 .view-button:hover {
-    transform: scale(1.09);
+    transform: scale(1.02);
 }
 
 .item-data {
